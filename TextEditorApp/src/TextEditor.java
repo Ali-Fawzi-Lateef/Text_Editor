@@ -29,7 +29,7 @@ public class TextEditor extends JFrame implements ActionListener {
     TextEditor(){
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setTitle("Text Modifier");
-        this.setSize(680,680);
+        this.setSize(680,680); 
         this.setLocationRelativeTo(null);
         this.getContentPane().setBackground(Color.darkGray);
         this.setLayout(new FlowLayout());
