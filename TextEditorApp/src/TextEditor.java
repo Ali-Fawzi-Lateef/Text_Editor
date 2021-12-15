@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.util.Scanner;     
+import java.util.Scanner;
 
 public class TextEditor extends JFrame implements ActionListener {
 
